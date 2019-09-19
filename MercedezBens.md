@@ -1,54 +1,51 @@
 <pre>
 Intro:
 
-Am      Am       D      C       G
+<b>Am      Am       D      C       G</b>
 Timilai maile dekheko hijo rati sapanima
-Am       D         C       G
+<b>Am       D         C       G</b>
 Parkhi baseko thiyou timi kasaiko lagi
 dobato ma) #2 
-C           D
+<b>C           D</b>
 Khoji hide bipani ma
-C            D
+<b>C            D</b>
 Tara vetauna sakina maile timilai
-C             D
+<b>C             D</b>
 Saayad timi veteko vaye 
-C        D
+<b>C        D</b>
 Ghumauna lanthe
-G         Am
-Timilai mercedez benz ma
-Mercedez benz ma 
-Am       D      C      G
+<b>G         Am</b>
+Timilai mercedez benz ma Mercedez benz ma 
+<b>Am       D      C      G</b>
 Sapani ma musukka hasi kaha gayau
 timi tyaksi ma
-Am      D        C      G
-Bihani ko kiran sangai khojna hidchu
-ma kaha kaha 
-C            D
+<b>Am      D        C      G</b>
+Bihani ko kiran sangai khojna hidchu ma kaha kaha 
+<b>C            D</b>
 Vetauna sakina maile
-C             D(pause)
+<b>C             D(pause)</b>
 Kaha harayau hawa ko lahar sangai
-C              D
+<b>C              D</b>
 Saayad timi veteko vaye 
-C         D
+<b>C         D</b>
 Ghumauna lanthe
-G          Am
-Timilai mercedez benz ma
-Mercedez benz ma 
-Am           D        C        G
+<b>G          Am</b>
+Timilai mercedez benz ma Mercedez benz ma 
+<b>Am           D        C        G</b>
 Timilai maile dekheko hijo rati sapani
 ma
-Am         D        C          G
+<b>Am         D        C          G</b>
 Parkhi baseko thiyou timi kasaiko lagi
 dobato ma 
-C             D
+<b>C             D</b>
 Khoji hide bipani ma
-C                 D(pause)
+<b>C                 D(pause)</b>
 Tara vetauna sakina mahile timilai
-C                D
+<b>C                D</b>
 Saayad timi veteko vaye 
-C           D
+<b>C           D</b>
 Ghumauna lanthe
-G                Am
+<b>G                Am</b>
 Timilai mercedez benz ma Mercedez
 benz ma
 </pre>
