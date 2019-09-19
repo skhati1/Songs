@@ -1,3 +1,4 @@
+<pre>
 [Intro]
 
 D           G             D
@@ -95,3 +96,5 @@ G               D
 Meyrey dil-e beqarar
 A
 Tu hee bata
+
+</pre>
