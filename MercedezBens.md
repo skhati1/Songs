@@ -1,4 +1,4 @@
-ntro:
+Intro:
 
 Am      Am       D      C       G
 Timilai maile dekheko hijo rati sapanima
