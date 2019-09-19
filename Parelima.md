@@ -1,6 +1,8 @@
+<pre>
 [Verse 1]
 
 E      F#m   Asus2      E
+
 Parelima lukai rakhana
 E     F#m   Asus2       E
 angaloma bandhi rakha
@@ -51,3 +53,5 @@ C#m                   B
 sachera rakha timrai aakhama
 A                    B
 yo ta timrai sahara ho
+
+</pre>
