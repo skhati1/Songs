@@ -1,13 +1,13 @@
 <pre>
 [Intro]
 
-D           G             D
+<b>D           G             D</b>
 Chaahe tum kuchh na kaho maine sun liya
-D           A             D
+<b>D           A             D</b>
 Ki saathi pyaar ka mujhe chun liya
-A
+<b>A</b>
 Chun liya
-A
+<b>A</b>
 Maine Sun liya
 
 
@@ -15,86 +15,86 @@ Maine Sun liya
 
 Strumming
 
-D - G - Em - A
+<b>D - G - Em - A</b>
 
 
 [Chorus]
 
-D            A
+<b>D            A</b>
 Pehla nasha pehla khumar  
-D             A 
+<b>D             A </b>
 naya pyar hai naya intezar
-G                 D
+<b>G                 D</b>
 karlon mein kiya apna hal
-A
+<b>A</b>
 Ay dil-e- beqarar 
-G               D
+<b>G               D</b>
 Meyrey dil-e beqarar
-A
+<b>A</b>
 Tu hee bata
 
 
 [Verse]
 
-D         G     A         D
+<b>D         G     A         D</b>
 udta hee phiron in havaon mein kahin 
-D         G        A         D  
+<b>D         G        A         D  </b>
 ya mein jhool jaon in fizaon mein kahin 
-D         G     A         D
+<b>D         G     A         D</b>
 udta hee phiron in havaon mein kahin 
-D         G        A         D  
+<b>D         G        A         D  </b>
 ya mein jhool jaon in fizaon mein kahin 
-F         G            D 
+<b>F         G            D </b>
 eik kardon asman aur zameen 
-F          G           Em  
+<b>F          G           Em  </b>
 kaho keron kiya aur kia nahin
 
 
 [Chorus]
 
-D            A
+<b>D            A</b>
 Pehla nasha pehla khumar  
-D             A 
+<b>D             A </b>
 naya pyar hai naya intezar
-G                 D
+<b>G                 D</b>
 karlon mein kiya apna hal
-A
+<b>A</b>
 Ay dil-e- beqarar 
-G               D
+<b>G               D</b>
 Meyrey dil-e beqarar
-A
+<b>A</b>
 Tu hee bata
 
 
 [Verse]
 
-D         G        A         D  
+<b>D         G        A         D  </b>
 Usne baat ki kuchh aise dhang se
-D         G        A         D  
+<b>D         G        A         D  </b>
 Sapne de gaya vo hazaaron range ke
-D         G        A         D  
+<b>D         G        A         D  </b>
 Usne baat ki kuchh aise dhang se
-D         G        A         D  
+<b>D         G        A         D  </b>
 Sapne de gaya vo hazaaron range ke
-F         G            D 
+<b>F         G            D </b>
 Reh jaoon jaise main haar ke
-F          G           Em 
+<b>F          G           Em </b>
 Aur choome vo mujhe pyaar se
 
 
 [Chorus]
 
-D            A
+<b>D            A</b>
 Pehla nasha pehla khumar  
-D             A 
+<b>D             A </b>
 naya pyar hai naya intezar
-G                 D
+<b>G                 D</b>
 karlon mein kiya apna hal
-A
+<b>A</b>
 Ay dil-e- beqarar 
-G               D
+<b>G               D</b>
 Meyrey dil-e beqarar
-A
+<b>A</b>
 Tu hee bata
 
 </pre>
