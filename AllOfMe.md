@@ -1,129 +1,129 @@
 <pre>
 [Intro]
-Fm  Db  Ab  Eb  x2
+<b>Fm  Db  Ab  Eb  x2</b>
 
 [Verse 1]
-Fm           Db                      Ab
+<b>Fm           Db                      Ab</b>
 What would I do without your smart mouth
-           Eb                      Fm
+<b>           Eb                      Fm</b>
 Drawing me in, and you kicking me out
-          Db            Ab               Eb          Fm
+<b>          Db            Ab               Eb          Fm</b>
 Got my head spinning, no kidding, I can't pin you down
-             Db                     Ab
+<b>             Db                     Ab</b>
 What's going on in that beautiful mind
-                Eb             Fm
+<b>                Eb             Fm</b>
 I'm on your magical mystery ride
-        Db                 Ab                     Eb         Bbm
+<b>        Db                 Ab                     Eb         Bbm</b>
 And I'm so   dizzy, don't know what hit me, but I'll be alright
 
 [Pre-Chorus A]
-   Bbm             Ab
+<b>   Bbm             Ab</b>
 My head's under water
-    Eb              Bbm
+<b>    Eb              Bbm</b>
 But I'm breathing fine
-                 Ab              Eb
+<b>                 Ab              Eb</b>
 You're crazy and I'm out of my mind
 
 [Chorus]
-       Ab
+<b>       Ab</b>
 Cause all of me
-       Fm
+<b>       Fm</b>
 Loves all of you
-          Bbm
+<b>          Bbm</b>
 Love your curves and all your edges
-           Db           Eb
+<b>           Db           Eb</b>
 All your perfect imperfections
-           Ab
+<b>           Ab</b>
 Give your all to me
-             Fm
+<b>             Fm</b>
 I'll give my all to you
-          Bbm
+<b>          Bbm</b>
 You're my end and my beginning
-     Db                Eb
+<b>     Db                Eb</b>
 Even when I lose I'm winning
-                  Fm   Db     Ab    Eb
+<b>                  Fm   Db     Ab    Eb</b>
 Cause I give you all, all of me
-                  Fm   Db     Ab    Eb
+<b>                  Fm   Db     Ab    Eb</b>
 And you give me all, all of you, oh
 
 [Verse 2]
-Fm       Db                       Ab
+<b>Fm       Db                       Ab</b>
 How many times do I have to tell you
-                 Eb                       Fm
+<b>                 Eb                       Fm</b>
 Even when you're crying you’re beautiful too
-              Db           Ab          Eb                  Fm
+<b>              Db           Ab          Eb                  Fm</b>
 The world is beating you down, I'm around through every mood
-             Db                 Ab
+<b>             Db                 Ab</b>
 You're my downfall, you're my muse
-             Eb                        Fm
+<b>             Eb                        Fm</b>
 My worst distraction, my rhythm and blues
-                Db             Ab        Eb            Bbm
+<b>                Db             Ab        Eb            Bbm</b>
 I can't stop singing, it's ringing, in my head for you
 
 [Pre-Chorus A]
-   Bbm             Ab
+<b>   Bbm             Ab</b>
 My head's under water
-    Eb              Bbm
+<b>    Eb              Bbm</b>
 But I'm breathing fine
-                 Ab              Eb
+<b>                 Ab              Eb</b>
 You're crazy and I'm out of my mind
 
 [Chorus]
-       Ab
+<b>       Ab</b>
 Cause all of me
-       Fm
+<b>       Fm</b>
 Loves all of you
-          Bbm
+<b>          Bbm</b>
 Love your curves and all your edges
-           Db           Eb
+<b>           Db           Eb</b>
 All your perfect imperfections
-           Ab
+<b>           Ab</b>
 Give your all to me
-             Fm
+<b>             Fm</b>
 I'll give my all to you
-          Bbm
+<b>          Bbm</b>
 You're my end and my beginning
-     Db                Eb
+<b>     Db                Eb</b>
 Even when I lose I'm winning
-                  Fm   Db      Ab   Eb
+<b>                  Fm   Db      Ab   Eb</b>
 Cause I give you all, all of me
-                  Fm   Db      Ab   Eb
+<b>                  Fm   Db      Ab   Eb</b>
 And you give me all, all of you, oh
 
 [Pre-Chorus B]
-Bbm         Ab
+<b>Bbm         Ab</b>
 Cards on the table
-       Eb             Bbm
+ <b>      Eb             Bbm</b>
 We're both showing hearts
-Bbm       Ab                Eb
+<b>Bbm       Ab                Eb</b>
 Risking it all, though it's hard
 
 [Chorus]
-       Ab
+<b>       Ab</b>
 Cause all of me
-       Fm
+<b>       Fm</b>
 Loves all of you
-          Bbm
+<b>          Bbm</b>
 Love your curves and all your edges
-           Db           Eb
+<b>           Db           Eb</b>
 All your perfect imperfections
-           Ab
+ <b>          Ab</b>
 Give your all to me
-             Fm
+ <b>            Fm</b>
 I'll give my all to you
-          Bbm
+ <b>         Bbm</b>
 You're my end and my beginning
-     Db                Eb
+ <b>    Db                Eb</b>
 Even when I lose I'm winning
-                  Fm   Db      Ab   Eb
+ <b>                 Fm   Db      Ab   Eb</b>
 Cause I give you all, all of me
-                  Fm   Db      Ab   Eb
+<b>                  Fm   Db      Ab   Eb</b>
 And you give me all, all of you
 
 [Outro]
-            Fm   Db      Ab   Eb
+ <b>           Fm   Db      Ab   Eb</b>
 I give you all, all of me
-                 Fm   Db      Ab    Eb
+ <b>                Fm   Db      Ab    Eb</b>
 And you give me all, all of you, oh
 
 </pre>
