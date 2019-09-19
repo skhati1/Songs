@@ -1,3 +1,4 @@
+<pre>
 Intro:
 
 Am      Am       D      C       G
@@ -50,3 +51,4 @@ Ghumauna lanthe
 G                Am
 Timilai mercedez benz ma Mercedez
 benz ma
+</pre>
